@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-image: docs/assets/circle.png
+logo: docs/assets/circle.png
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Hire Conrad
-description: Software QA | SDET | Why you should hire me now
+description: Software QA | SDET | Hire me now
 show_downloads: false
