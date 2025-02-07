@@ -1,5 +1,5 @@
 # SDET for Hire
-###Senior SDET, Automator, Tutor
+Senior SDET | Automator of all of the things!
 # About
 In 1992 I started out coding C and C++ device-drivers at a small company developing an industrial control system, based in Johannesburg. I emigrated to the UK in 2006 landing a QA job at Symbian mobile which switched me into a tester, quickly learning about USB, Bluetooth and GSM. When Symbian wound down in 2008, I moved to Clearcom, testing a digital-audio and Voip solution on micro-linux. Joined Citrix in 2010, in a virtual desktop/remote-desktop testing role mainly Windows with some Linux work. Joined DisplayLink in 2018; once again covering desktop testing but with an embedded display-docking station, for a short contract filler. I worked at Arm in the IOT division over 2019, eventually favouring a shorter commute to work at another smaller Cambridge origin company, RealVNC.
 
@@ -21,6 +21,7 @@ The nature of my first job in a manufacturing control-system environment where p
 ## RealVNC July 2019 - November 2024
 - Snr test Engineer, Mobile apps and Desktop test automation.
 - I added a full Selenium integration to our Python-based test stack to support Browser tests as well as Appium for Android and iOS mobile app tests.
+- I managed mobile release and publishing tasks.
 - Adopted/championed use of Zephyr plugin for Jira to use as TCMS.
 - On the API and Cloud side of things I added Mobile Device Management (MDM) testing to our suites using Microsoft Intune, to deploy app configurations.
 - Python, git. Some C++, groovy, java
@@ -28,6 +29,7 @@ The nature of my first job in a manufacturing control-system environment where p
 ## Arm July 2018 - June 2019
 - Joined the arm IOT system division to help design and implement system tests.
 - This is an embedded testing role using Jenkins, Github, some amazon Cloud integration.
+- Tests run on-target in a distributed system.
 - Python and C/C++, git. This is an open source project https://github.com/ARMmbed/mbed-os.
 
 ## DisplayLink Jan 2018 - June 2018
@@ -39,20 +41,31 @@ The nature of my first job in a manufacturing control-system environment where p
 - Started as a Contractor testing a Windows filesystem device driver.
 - CPPUnit/C++ based around the wine test framework.
 - Permanent joined a team created to deploy a turn-key test-automation framework (Continuous Integration). This involved writting a DLS Domain specific language to make it possible to create thousands of tests.
-- We delivered a turn-key testing environment in a Windows Active-Directory distributed environment.
-- Python, C++ and Powershell. Perforce, git
+- We delivered a turn-key testing environment in a Windows Active-Directory distributed environment. Testing framework used by teams worldwide. I got involved in release and publishing tasks.
+- Jenkins, Teamcity, Jira
+- Python, C++ and Powershell+BASH. Perforce, git
 
 ## Clear Com (Vitec) June 2008 – October 2009
-- todo
+- Clear Com design and market a complete hybrid digital intercom system.  Diogital audio for Live Performance, Broadcasters, Military, Aerospace and Government.
+- Designed and implemented an Ethernet LAN auto-discovery for at-scale testing using TCP and UDP-broadcast protocols.
+- Writting tests in C# on Windows and some BASH and 'C' for linux embedded targets.
+- CPPUnit, Cruise Control and GDB.
 
 ## Symbian Limited (now Nokia) July 2006 – May 2008
-- todo
+- My first QA role, helping test USB, Bt and Wifi in the smart-phone RTOS that evolved from the Psion portable organizers.
+- Prod code defect fixing and test implementation
+- C/C++, Perforce, arm toolchain. Google robot. Bulldog code coverage
 
 ## Adroit Technologies 1992 – 2006
-- todo
+- Adroit Technologies develop an Industrial Control system on the Windows platform, in Johannesburg, South Africa.
+- Perform technology presentations to customers. Gather customer requirements, then write a plugin driver.
+- I started as a junior developer on a ‘C’ coding role and progressed to team lead after 5 years.
+- C/C++, Multithreading. Visual Studio, SourceSafe and svn, Ethereal/ Wire-shark.
 
 ## Network Computer Services: 1991-1992
-- todo
+- My first full-time work involved installing LAN and WAN for a contractor.
+- I ran a 2-3 man team, eventually specialised in troubleshooting networks and tackling difficult LAN installations.
+
 
 ## Early Studies
 - 1991: I trained in formal software development, with a full-time COBOL and Data-Processing concepts course at the well known Van Zyl and Pritchard institution, Johannesburg.
@@ -66,3 +79,4 @@ The nature of my first job in a manufacturing control-system environment where p
 - I've dabbled in electronics coding ever since and still build tiny Arduino gadgets. 
 - Campanologist, and a bad singer, I also own and operate a chainsaw.
 - I really like RPG PC games. I also read Sci-Fi and Fantasy books made of dead trees.
+
